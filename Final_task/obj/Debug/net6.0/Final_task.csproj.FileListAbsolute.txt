@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\bin\Debug\net6.0\Final_task.exe
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\bin\Debug\net6.0\Final_task.deps.json
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\bin\Debug\net6.0\Final_task.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\bin\Debug\net6.0\Final_task.dll
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\bin\Debug\net6.0\Final_task.pdb
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.dll
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\refint\Final_task.dll
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.pdb
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\Final_task.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\final_work\Final_test_work_1\Final_task\obj\Debug\net6.0\ref\Final_task.dll
